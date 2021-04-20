@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/7430456/pexels-photo-7430456.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260">
+ <a href="https://ibb.co/FHQYqTD"><img src="https://i.ibb.co/tL02PrJ/pexels-photo-1910225.jpg" alt="pexels-photo-1910225" border="0"></a>
 <h3>Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm an I.T Consultant, Self learner, <br> an I.T Consultant, Self learner, <br> Entrepreneur, Curious, <br> and teacher. </h3>
 
 <h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajuluscard.carrd.co/">Business Card</a> </h4>
