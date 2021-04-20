@@ -1,10 +1,9 @@
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Gabrielle)
-
 
 <div align="center">
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Gabrielle)
   
-<h3>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm Oswaldo Ordóñez<br>an I.T Consultant, Web Developer, <br>Entrepreneur, Courious, <br>and Cybsecurity Strategist</h3>
+<h3>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm Oswaldo Ordóñez Bolaños <br> an I.T Consultant, Self learner, <br>Entrepreneur, Curious, <br> and teacher. </h3>
 
 <!--
 **AndresOrdonez369/AndresOrdonez369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
