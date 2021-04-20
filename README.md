@@ -1,7 +1,8 @@
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Gabrielle)
 
 <div align="center">
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Gabrielle)
+  
+
   
 <h3>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm Oswaldo Ordóñez Bolaños <br> an I.T Consultant, Self learner, <br>Entrepreneur, Curious, <br> and teacher. </h3>
 
