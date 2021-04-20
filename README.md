@@ -1,5 +1,3 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Gabrielle)
-
 <div align="center">
   
 
@@ -29,5 +27,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/lsimulado
 [2]: https://www.linkedin.com/in/oswaldo-ordonez/
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=default&font=default)
 </div>
