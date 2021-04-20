@@ -5,16 +5,10 @@
 lifelong learner of JavaScript And Unity<br>researcher Deep Reinforcement learning applied to videogames <br> enthusiastic teacher. </h3>
 
 <h4> <a href="https://www.linkedin.com/in/oswaldo-ordonez/">Linkedln</a> • <a href="https://resume-andres-ordonez.web.app/">Website</a> • <a href="https://momentodedespertarenlarealidad.blogspot.com/">Blog</a> • <a href="https://twitter.com/lsimulado">Twitter</a> </h4>
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=jolly&animation=default&layout=default&font=default">
-</p>
+
+  <img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=jolly&animation=default&layout=default&font=default">
+
 </div>
-
-
-<!-- Icons -->
-
-
-<!-- Links to your social media accounts -->
 
 
 
