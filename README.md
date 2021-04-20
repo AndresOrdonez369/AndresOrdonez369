@@ -1,6 +1,7 @@
 
 <div align="center">
-<h3>Hi Everyone! <img src="https://images.pexels.com/photos/7430456/pexels-photo-7430456.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" width="30px"> <br> I'm an I.T Consultant, Self learner, <br> an I.T Consultant, Self learner, <br> Entrepreneur, Curious, <br> and teacher. </h3>
+  <img src="https://images.pexels.com/photos/7430456/pexels-photo-7430456.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" width="30px">
+<h3>Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm an I.T Consultant, Self learner, <br> an I.T Consultant, Self learner, <br> Entrepreneur, Curious, <br> and teacher. </h3>
 
 <h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajuluscard.carrd.co/">Business Card</a> </h4>
 <!--
