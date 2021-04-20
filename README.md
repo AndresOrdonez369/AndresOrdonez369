@@ -1,8 +1,7 @@
 
   <!-- Hi there! Feel free to make this your own but don't use my data -->
   
-<div align="center">
-  <a href="https://ibb.co/jMBXwNs"><img src="https://i.ibb.co/C7NG9cD/captu1.jpg" alt="Oswaldo Andrés" border="0"></a>
+  <a href="https://ibb.co/1M3J0yy"><img src="https://i.ibb.co/xYy8299/fin.jpg" alt="fin" border="0"></a>
 
   <br>
   
@@ -40,7 +39,7 @@ Tech6: Founder and Developer  🚀 <em>coming soon</em><br>
 BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
 Lofyd  🚀 <em>coming soon</em>
 </p>
-</div>
+
 
 
 
@@ -77,4 +76,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/lsimulado
 [2]: https://www.linkedin.com/in/oswaldo-ordonez/
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=default&font=default)
-</div>
+
