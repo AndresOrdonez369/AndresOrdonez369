@@ -1,6 +1,6 @@
 <div align="center">
   
-
+<a href="https://ibb.co/nn1bnz2"><img src="https://i.ibb.co/s6126yS/image.jpg" alt="image" border="0"></a>
   
 <h3>Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm Oswaldo Ordóñez Bolaños <br> an I.T Consultant, Self learner, <br> Entrepreneur, Curious, <br> and teacher. </h3>
 
